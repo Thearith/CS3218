@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="cs3218tut.example.com.android.cs3218tut.GraphActivity">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/table" />
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/displayFunction"
+        android:background="#3498db"
+        android:textColor="@android:color/white"
+        android:paddingLeft="10dp"
+        android:text="@string/graph_activity_composite_function"/>
+
+    <com.example.android.cs3218thearith.cs3218thearith.SurfaceView.CSurfaceViewGraph
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/surfaceView"
+        />
+
+</LinearLayout>

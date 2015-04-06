@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyTutorials</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- for Calculator Activity (Tutorial 1) -->
+    <string name="goToCalcActivity">Simple Calculator (Tutorial 1)</string>
+    <string name="calc_activity_label">Simple Calculator</string>
+    <string name="ac_btn">AC</string>
+    <string name="c_btn">C</string>
+    <string name="sqrt_btn">\u221a</string>
+    <string name="dot_btn">.</string>
+    <string name="equal_btn">=</string>
+    <string name="plus_btn">+</string>
+    <string name="minus_btn">-</string>
+    <string name="multiply_btn">x</string>
+    <string name="divide_btn">/</string>
+    <string name="zero_btn">0</string>
+    <string name="one_btn">1</string>
+    <string name="two_btn">2</string>
+    <string name="three_btn">3</string>
+    <string name="four_btn">4</string>
+    <string name="five_btn">5</string>
+    <string name="six_btn">6</string>
+    <string name="seven_btn">7</string>
+    <string name="eight_btn">8</string>
+    <string name="nine_btn">9</string>
+
+    <!-- for Graph Plotting Activity (Tutorial 2) -->
+    <string name="goToGraphActivity">Graphing (Tutorial 2)</string>
+    <string name="graph_activity_label">Graph Plotting</string>
+    <string name="sine">Sine</string>
+    <string name="cosine">Cosine</string>
+    <string name="fft">FFT</string>
+    <string name="Aplus">A+</string>
+    <string name="Aminus">A-</string>
+    <string name="Pplus">P+</string>
+    <string name="Pminus">P-</string>
+    <string name="Fplus">F+</string>
+    <string name="Fminus">F-</string>
+    <string name="compositeFunction">Composite Function</string>
+
+    <!-- for Sound Activity (Tutorial 3) -->
+    <string name="goToSoundActivity">Sound (Tutorial 3)</string>
+    <string name="sound_activity_label">Sound</string>
+    <string name="capture_sound">Capture Sound</string>
+
+    <!-- for Calculus Activity (Tutorial 4) -->
+    <string name="goToCalculusActivity">Calculus (Tutorial 4)</string>
+    <string name="calculus_activity_label">FFT</string>
+    <string name="integrate">Integration</string>
+
+    <!-- for FFT Activity (Tutorial 5a) -->
+    <string name="goToFFTActivity">FFT (Tutorial 5a)</string>
+    <string name="fft_activity_label">FFT</string>
+
+    <!-- for Live FFT Activity (Tutorial 5b) -->
+    <string name="goToLiveFFTActivity">Live FFT (Tutorial 5b)</string>
+    <string name="live_fft_activity_label">Live FFT on Sound</string>
+
+    <!-- for Spectrogram Activity (Tutorial 5c) -->
+    <string name="goToSpectrogramActivity">Spectrogram (Tutorial 5c)</string>
+    <string name="spectrogram_activity_label">Spectrogram</string>
+
+
+    <string name="goToMainActivity">Back to Main</string>
+    <string name="goBackActivity">Back</string>
+
+    <string name="title_activity_calculator">Calculator Activity</string>
+    <string name="title_activity_graphing" >Graph Activity </string>
+    <string name="title_activity_sound" > Sound Activity </string>
+    <string name="title_activity_calculus" > Calculus Activity </string>
+    <string name="title_activity_fftactivity" >FFT Activity </string>
+
+    <string name="graph_activity_composite_function">Composite Function</string>
+
+    <string name="main_activity_go_to_calculator">SIMPLE CALCULATOR (TUTORIAL 1)</string>
+    <string name="main_activity_go_to_graphing">GRAPHING (TUTORIAL 2)</string>
+    <string name="main_activity_go_to_sound">SOUND (TUTORIAL 3)</string>
+    <string name="main_activity_go_to_calculus">CALCULUS (TUTORIAL 4)</string>
+    <string name="main_activity_go_to_fft">FFT (TUTORIAL 5A)</string>
+    <string name="main_activity_go_to_livefft">LIVE FFT (TUTORIAL 5B)</string>
+    <string name="main_activity_go_to_spectrogram">SPECTROGRAM (TUTORIAL 5C)</string>
+    <string name="main_activity_go_to_convolution">CONVOLUTION (TUTORIAL 6A)</string>
+    <string name="main_activity_go_to_convolution_fft">CONVOLUTION FFT (TUTORIAL 6B)</string>
+    <string name="main_activity_go_to_correlation">CORRELATION (TUTORIAL 6C)</string>
+    <string name="main_activity_go_to_correlation_fft">CORRELATION FFT (TUTORIAL 6D)</string>
+
+    <string name="title_activity_live_fft">LiveFFTActivity</string>
+    <string name="title_activity_spectrogram">SpectrogramActivity</string>
+    <string name="title_activity_convolution">ConvolutionActivity</string>
+    <string name="title_activity_convolution_fft">ConvolutionFFTActivity</string>
+    <string name="title_activity_correlation">CorrelationActivity</string>
+    <string name="title_activity_correlation_fft">CorrelationFFTActivity</string>
+</resources>
